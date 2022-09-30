@@ -1,7 +1,58 @@
-.imageone {
-    width: 300px;
-    height: auto;
-}
+
 .boxone {
     background-color: #1F2937;
+  
 }
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 75px;
+}
+.links {
+    margin-right: 75px;
+}
+.listone {
+    display: flex;
+}
+.contentone {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 75px;
+
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+.imageone {
+    width: 300px;
+    height: 150px;
+    margin-right: 75px;
+}
+.buttonone {
+    margin-left: 75px;
+}
+.headertwo {
+    text-align: center;
+}
+ .container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+    
+}
+.pic {
+    width: 120px;
+}
+    
+
+.images {
+    width: 100px;
+    height: auto;
+    
+}
+
