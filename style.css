@@ -1,5 +1,5 @@
 
-.boxone {
+.layoutone {
     background-color: #1F2937;
   
 }
@@ -60,13 +60,14 @@
 }
 /* third layout */
 
- .boxthree { 
+ .layoutthree { 
     background-color: #E5E7EB;
-    border: solid transparent;
+    
 }
 .block {
     width: 400px;
-   margin: 100px auto;
+   margin: 0 auto;
+   padding: 100px;
     
 }
     
@@ -79,4 +80,24 @@ p {
 .thor {
     text-align: right;
 }
+/* 4th layout */
 
+.boxfour {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 500px;
+    background-color: #3882F6 ;
+    margin: 50px auto;
+    padding: 20px 80px;
+}
+.action {
+    color: #f9faf8;
+}
+.parafour {
+    color:  #f9faf8;
+}
+.signup {
+    background-color: #3882F6;
+    color: #f9faf8;
+}
