@@ -35,6 +35,9 @@
 .buttonone {
     margin-left: 75px;
 }
+
+/* 2nd layout */
+
 .headertwo {
     text-align: center;
 }
@@ -54,5 +57,10 @@
     width: 100px;
     height: auto;
     
+}
+/* third layout */
+
+.boxthree {
+    background-color: #E5E7EB;
 }
 
