@@ -18,7 +18,7 @@
 }
 .contentone {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     margin-left: 75px;
 
 }
@@ -60,7 +60,23 @@
 }
 /* third layout */
 
-.boxthree {
+ .boxthree { 
     background-color: #E5E7EB;
+    border: solid transparent;
+}
+.block {
+    width: 400px;
+   margin: 100px auto;
+    
+}
+    
+p {
+    width: 400px;
+   
+    
+    
+}
+.thor {
+    text-align: right;
 }
 
